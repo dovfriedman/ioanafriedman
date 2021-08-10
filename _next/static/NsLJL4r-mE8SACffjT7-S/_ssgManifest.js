@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fservices","\u002Fcase-studies","\u002Fconnect","\u002Fmy-story","\u002Fcase-study\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
